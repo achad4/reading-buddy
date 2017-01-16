@@ -1,5 +1,5 @@
 from flask import Blueprint, jsonify, current_app
-from flask.ext.restful import Api
+from flask_restful import Api
 
 
 common_blueprint = Blueprint('common', __name__)

@@ -1,0 +1,246 @@
+WARNING: 14/01/17 16:12:30 pid:17644 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:12:30 pid:17644 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:12:52 pid:17656 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:12:52 pid:17656 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:14:41 pid:17776 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:14:41 pid:17776 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:15:03 pid:17805 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:15:03 pid:17805 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:15:50 pid:17832 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:15:50 pid:17832 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:17:18 pid:17890 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:17:18 pid:17890 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:19:20 pid:18018 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:19:20 pid:18018 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:20:52 pid:18056 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:20:52 pid:18056 module:core Unknown option passed to Flask-CORS: headers
+INFO: 14/01/17 16:20:52 pid:18056 module:_internal  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 14/01/17 16:20:52 pid:18056 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:20:52 pid:18057 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:20:52 pid:18057 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:20:52 pid:18057 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:20:52 pid:18057 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:21:27 pid:18057 module:_internal 127.0.0.1 - - [14/Jan/2017 16:21:27] "GET /routes HTTP/1.1" 200 -
+INFO: 14/01/17 16:22:01 pid:18057 module:_internal 127.0.0.1 - - [14/Jan/2017 16:22:01] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:22:20 pid:18057 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/routes/document.py', reloading
+INFO: 14/01/17 16:22:20 pid:18056 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:22:20 pid:18140 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:20 pid:18140 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:20 pid:18140 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:22:20 pid:18140 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:22:23 pid:18140 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:22:23 pid:18056 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:22:23 pid:18147 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:23 pid:18147 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:23 pid:18147 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:22:23 pid:18147 module:_internal  * Debugger pin code: 854-254-407
+WARNING: 14/01/17 16:22:46 pid:18184 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:46 pid:18184 module:core Unknown option passed to Flask-CORS: headers
+INFO: 14/01/17 16:22:46 pid:18184 module:_internal  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 14/01/17 16:22:46 pid:18184 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:22:46 pid:18185 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:46 pid:18185 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:46 pid:18185 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:22:46 pid:18185 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:22:55 pid:18185 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/routes/common.py', reloading
+INFO: 14/01/17 16:22:55 pid:18184 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:22:55 pid:18189 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:55 pid:18189 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:55 pid:18189 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:22:55 pid:18189 module:_internal  * Debugger pin code: 854-254-407
+WARNING: 14/01/17 16:22:58 pid:18204 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:58 pid:18204 module:core Unknown option passed to Flask-CORS: headers
+INFO: 14/01/17 16:22:58 pid:18204 module:_internal  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 14/01/17 16:22:58 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:22:58 pid:18205 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:58 pid:18205 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:22:58 pid:18205 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:22:58 pid:18205 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:23:00 pid:18205 module:_internal 127.0.0.1 - - [14/Jan/2017 16:23:00] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:23:02 pid:18205 module:_internal 127.0.0.1 - - [14/Jan/2017 16:23:02] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:28:21 pid:18205 module:_internal 127.0.0.1 - - [14/Jan/2017 16:28:21] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:28:23 pid:18205 module:_internal 127.0.0.1 - - [14/Jan/2017 16:28:23] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:28:33 pid:18205 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/config.py', reloading
+INFO: 14/01/17 16:28:33 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:28:34 pid:18343 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:28:34 pid:18343 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:28:34 pid:18343 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:28:34 pid:18343 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:28:44 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:28:44] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:28:52 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:28:52] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:28:55 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:28:55] "POST /routes HTTP/1.1" 405 -
+INFO: 14/01/17 16:28:59 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:28:59] "GET /routes HTTP/1.1" 200 -
+INFO: 14/01/17 16:29:04 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:29:04] "GET /document HTTP/1.1" 405 -
+INFO: 14/01/17 16:29:13 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:29:13] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:29:35 pid:18343 module:_internal 127.0.0.1 - - [14/Jan/2017 16:29:35] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:30:26 pid:18343 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:30:26 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:30:27 pid:18414 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:27 pid:18414 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:27 pid:18414 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:30:27 pid:18414 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:30:27 pid:18414 module:_internal 127.0.0.1 - - [14/Jan/2017 16:30:27] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:30:34 pid:18414 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:30:34 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:30:34 pid:18421 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:34 pid:18421 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:34 pid:18421 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:30:34 pid:18421 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:30:35 pid:18421 module:_internal 127.0.0.1 - - [14/Jan/2017 16:30:35] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:30:36 pid:18421 module:_internal 127.0.0.1 - - [14/Jan/2017 16:30:36] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:30:37 pid:18421 module:_internal 127.0.0.1 - - [14/Jan/2017 16:30:37] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:30:46 pid:18421 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:30:46 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:30:47 pid:18441 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:47 pid:18441 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:47 pid:18441 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:30:47 pid:18441 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:30:55 pid:18441 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:30:55 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:30:55 pid:18445 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:55 pid:18445 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:30:55 pid:18445 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:30:55 pid:18445 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:30:56 pid:18445 module:_internal 127.0.0.1 - - [14/Jan/2017 16:30:56] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:31:10 pid:18445 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:31:10 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:31:10 pid:18456 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:31:10 pid:18456 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:31:10 pid:18456 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:31:10 pid:18456 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:31:12 pid:18456 module:_internal 127.0.0.1 - - [14/Jan/2017 16:31:12] "POST /document HTTP/1.1" 500 -
+INFO: 14/01/17 16:32:29 pid:18456 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:32:29 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:32:29 pid:18504 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:32:29 pid:18504 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:32:29 pid:18504 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:32:29 pid:18504 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:32:33 pid:18504 module:_internal 127.0.0.1 - - [14/Jan/2017 16:32:33] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:32:38 pid:18504 module:_internal 127.0.0.1 - - [14/Jan/2017 16:32:38] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:32:41 pid:18504 module:_internal 127.0.0.1 - - [14/Jan/2017 16:32:41] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:32:49 pid:18504 module:_internal 127.0.0.1 - - [14/Jan/2017 16:32:49] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:32:50 pid:18504 module:_internal 127.0.0.1 - - [14/Jan/2017 16:32:50] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:32:53 pid:18504 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:32:53 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:32:54 pid:18533 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:32:54 pid:18533 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:32:54 pid:18533 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:32:54 pid:18533 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:33:49 pid:18533 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:33:49 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:33:49 pid:18554 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:33:49 pid:18554 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:33:49 pid:18554 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:33:49 pid:18554 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:33:51 pid:18554 module:_internal 127.0.0.1 - - [14/Jan/2017 16:33:51] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:39:02 pid:18554 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:39:03 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:39:03 pid:18678 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:39:03 pid:18678 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:39:03 pid:18678 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:39:03 pid:18678 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:39:04 pid:18678 module:_internal 127.0.0.1 - - [14/Jan/2017 16:39:04] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:39:51 pid:18678 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:39:51 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:39:52 pid:18706 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:39:52 pid:18706 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:39:52 pid:18706 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:39:52 pid:18706 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:41:23 pid:18706 module:_internal 127.0.0.1 - - [14/Jan/2017 16:41:23] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:41:29 pid:18706 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:41:29 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:41:30 pid:18756 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:41:30 pid:18756 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:41:30 pid:18756 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:41:30 pid:18756 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:41:31 pid:18756 module:_internal 127.0.0.1 - - [14/Jan/2017 16:41:31] "POST /document HTTP/1.1" 500 -
+INFO: 14/01/17 16:41:39 pid:18756 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:41:39 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:41:39 pid:18763 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:41:39 pid:18763 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:41:39 pid:18763 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:41:39 pid:18763 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:41:40 pid:18763 module:_internal 127.0.0.1 - - [14/Jan/2017 16:41:40] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 16:42:06 pid:18763 module:_internal 127.0.0.1 - - [14/Jan/2017 16:42:06] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 16:53:56 pid:18763 module:_internal 127.0.0.1 - - [14/Jan/2017 16:53:56] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 16:54:01 pid:18763 module:_internal 127.0.0.1 - - [14/Jan/2017 16:54:01] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 16:54:14 pid:18763 module:_internal 127.0.0.1 - - [14/Jan/2017 16:54:14] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 16:55:13 pid:18763 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:55:13 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:55:14 pid:19105 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:55:14 pid:19105 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:55:14 pid:19105 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:55:14 pid:19105 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:55:19 pid:19105 module:_internal 127.0.0.1 - - [14/Jan/2017 16:55:19] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 16:55:27 pid:19105 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 16:55:27 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 16:55:27 pid:19119 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:55:27 pid:19119 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 16:55:27 pid:19119 module:_internal  * Debugger is active!
+INFO: 14/01/17 16:55:27 pid:19119 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 16:56:02 pid:19119 module:_internal 127.0.0.1 - - [14/Jan/2017 16:56:02] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:08:39 pid:19119 module:_internal 127.0.0.1 - - [14/Jan/2017 17:08:39] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:08:49 pid:19119 module:_internal 127.0.0.1 - - [14/Jan/2017 17:08:49] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:09:00 pid:19119 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:09:00 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:09:01 pid:19481 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:09:01 pid:19481 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:09:01 pid:19481 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:09:01 pid:19481 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:09:06 pid:19481 module:_internal 127.0.0.1 - - [14/Jan/2017 17:09:06] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:09:22 pid:19481 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:09:22 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:09:22 pid:19498 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:09:22 pid:19498 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:09:22 pid:19498 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:09:22 pid:19498 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:09:24 pid:19498 module:_internal 127.0.0.1 - - [14/Jan/2017 17:09:24] "POST /document HTTP/1.1" 400 -
+INFO: 14/01/17 17:09:30 pid:19498 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:09:30 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:09:31 pid:19505 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:09:31 pid:19505 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:09:31 pid:19505 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:09:31 pid:19505 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:09:31 pid:19505 module:_internal 127.0.0.1 - - [14/Jan/2017 17:09:31] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:09:44 pid:19505 module:_internal 127.0.0.1 - - [14/Jan/2017 17:09:44] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:10:39 pid:19505 module:_internal 127.0.0.1 - - [14/Jan/2017 17:10:39] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:10:48 pid:19505 module:_internal 127.0.0.1 - - [14/Jan/2017 17:10:48] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:13:57 pid:19505 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:13:57 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:13:58 pid:19624 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:13:58 pid:19624 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:13:58 pid:19624 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:13:58 pid:19624 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:14:03 pid:19624 module:_internal 127.0.0.1 - - [14/Jan/2017 17:14:03] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:14:14 pid:19624 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:14:14 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:14:14 pid:19639 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:14:14 pid:19639 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:14:14 pid:19639 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:14:14 pid:19639 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:14:18 pid:19639 module:_internal 127.0.0.1 - - [14/Jan/2017 17:14:18] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:27:24 pid:19639 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:27:24 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:27:24 pid:19971 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:27:24 pid:19971 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:27:24 pid:19971 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:27:24 pid:19971 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:30:16 pid:19971 module:_internal 127.0.0.1 - - [14/Jan/2017 17:30:16] "POST /document HTTP/1.1" 500 -
+INFO: 14/01/17 17:30:30 pid:19971 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:30:31 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:30:31 pid:20106 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:30:31 pid:20106 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:30:31 pid:20106 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:30:31 pid:20106 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:30:34 pid:20106 module:_internal 127.0.0.1 - - [14/Jan/2017 17:30:34] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:31:50 pid:20106 module:_internal 127.0.0.1 - - [14/Jan/2017 17:31:50] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:32:14 pid:20106 module:_internal 127.0.0.1 - - [14/Jan/2017 17:32:14] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:32:23 pid:20106 module:_internal 127.0.0.1 - - [14/Jan/2017 17:32:23] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:33:49 pid:20106 module:_internal 127.0.0.1 - - [14/Jan/2017 17:33:49] "POST /document HTTP/1.1" 200 -
+INFO: 14/01/17 17:37:19 pid:20106 module:_internal  * Detected change in '/Users/avichad-friedman/personal-dev/reading-buddy/resources/document.py', reloading
+INFO: 14/01/17 17:37:19 pid:18204 module:_internal  * Restarting with stat
+WARNING: 14/01/17 17:37:19 pid:20297 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:37:19 pid:20297 module:core Unknown option passed to Flask-CORS: headers
+WARNING: 14/01/17 17:37:19 pid:20297 module:_internal  * Debugger is active!
+INFO: 14/01/17 17:37:19 pid:20297 module:_internal  * Debugger pin code: 854-254-407
+INFO: 14/01/17 17:37:22 pid:20297 module:_internal 127.0.0.1 - - [14/Jan/2017 17:37:22] "POST /document HTTP/1.1" 200 -
