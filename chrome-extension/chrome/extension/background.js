@@ -22,10 +22,9 @@ promisifyAll(chrome, [
   'tabs',
   'windows',
   'browserAction',
-  'contextMenus'
+  'contextMenus',
+  'notifcations'
 ]);
 promisifyAll(chrome.storage, [
   'local',
 ]);
-
-require('./background/inject');

@@ -18,8 +18,7 @@ export default class App extends Component {
 
   render() {
     return (
-      <div className={style.normal}>
-      </div>
+      <h2>OYOOYOYOY</h2>
     );
   }
 }
