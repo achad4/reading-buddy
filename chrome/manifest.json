@@ -10,13 +10,12 @@
   },
   "default_locale": "en",
   "background": {
-    "scripts": [
-      "src/bg/background.js"
-    ],
+    "page": "src/background.html",
     "persistent": true
   },
   "permissions": [
     "notifications",
     "background"
-  ]
+  ],
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
 }
