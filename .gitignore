@@ -1,2 +1,3 @@
 reading-server/env
-chrome/nodemodules/
+chrome/node_modules/
+chrome/build/
