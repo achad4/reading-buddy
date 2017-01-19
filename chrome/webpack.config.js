@@ -7,8 +7,7 @@ var webpack = require("webpack"),
 module.exports = {
   entry: {
     popup: path.join(__dirname, "src", "js", "popup.js"),
-    background: path.join(__dirname, "src", "js", "background.js"),
-    manifest: path.join(__dirname, "src", "manifest.json"),
+    background: path.join(__dirname, "src", "js", "background.js")
   },
   output: {
     path: path.join(__dirname, "build"),
