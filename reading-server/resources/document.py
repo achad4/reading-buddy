@@ -11,3 +11,6 @@ class DocumentApi(Resource):
 		print(f)
 		f.save(secure_filename(f.filename))
 
+	def post(self):
+		print("GET")
+		return "sup bro"
