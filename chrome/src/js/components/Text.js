@@ -1,4 +1,5 @@
 import React, { PropTypes, Component } from 'react';
+import * as actions from '../actions';
 
 export default class Text extends Component {
 
@@ -24,11 +25,14 @@ export default class Text extends Component {
     // }
 
     render() {
-
+      const { dispatch, body } = this.props;
       return (
         <div className="Comment">
-          // <h1>{this.props.title}</h1>
-          <h2>{this.props.body}</h2>
+          <h2>{body}</h2>
+          <button onClick={event => {
+            console.log('Boyeeeee');
+            dispatch(actions.changeBody("Sup"));
+          }} >next</button>
         </div>
       );
     }

@@ -1,8 +1,9 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Text from './components/Text';
+import TextContainer from './components/TextContainer';
 import { createStore, applyMiddleware, compose } from 'redux';
+import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
 import * as actions from './actions';
 import reducer from './reducers'
@@ -19,6 +20,8 @@ const store = createStore(
   )
 );
 
-store.dispatch(actions.changeBody());
-
-ReactDOM.render(<Text store={store} />, document.getElementById('app-container'));
+ReactDOM.render(
+  <Provider store={store}>
+    <TextContainer />
+  </Provider>,
+  document.getElementById('app-container'));
