@@ -1,7 +1,11 @@
 var webpack = require("webpack"),
     config = require("../webpack.config");
 
+
+
 require("./prepare");
+
+console.log(config);
 
 webpack(
   config,

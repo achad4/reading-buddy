@@ -15,20 +15,28 @@ module.exports = {
   },
   module: {
     loaders: [
-      { test: /\.js$/, loader: "babel" },
-      { test: /\.css$/, loader: "style-loader!css-loader" }
+      {
+        test: /\.(js|jsx)$/,
+        loader: "babel",
+        exclude: /node_modules/,
+        query: { presets: ['react']}
+      },
+      {
+        test: /\.css$/,
+        loaders: ["style", "css"]
+      }
     ]
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: path.join(__dirname, "src", "popup.html"),
-      filename: "popup.html",
-      chunks: ["popup"]
-    }),
-    new HtmlWebpackPlugin({
       template: path.join(__dirname, "src", "background.html"),
       filename: "background.html",
       chunks: ["background"]
+    }),
+    new HtmlWebpackPlugin({
+      template: path.join(__dirname, "src", "popup.html"),
+      filename: "popup.html",
+      chunks: ["popup"]
     }),
     new WriteFilePlugin()
   ]
