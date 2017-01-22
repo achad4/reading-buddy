@@ -1,5 +1,6 @@
 import { connect } from 'react-redux';
 import Text from './Text';
+import * as actions from '../actions';
 
 const mapStateToProps = state => {
   return {
@@ -7,7 +8,17 @@ const mapStateToProps = state => {
   }
 }
 
-const mapDispatchToProps = dispatch => ({ dispatch });
+// const mapDispatchToProps = dispatch => ({
+//   dispatch
+// });
+const mapDispatchToProps = (dispatch) => {
+  return {
+    onClick: (id) => {
+      dispatch(actions.fetchBody())
+    }
+  }
+}
+
 
 const TextContainer = connect(
   mapStateToProps,

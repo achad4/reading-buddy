@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 from werkzeug import secure_filename
 from flask_restful import Resource
-from flask_mongo import PyMongo
+from flask_pymongo import PyMongo
 
 class DocumentApi(Resource):
 	def post(self):
@@ -13,4 +13,4 @@ class DocumentApi(Resource):
 
 	def post(self):
 		print("GET")
-		return "sup bro"
+		return {'text' : 'sup bro'}

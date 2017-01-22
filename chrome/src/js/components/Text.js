@@ -24,15 +24,13 @@ export default class Text extends Component {
     //   });
     // }
 
+
     render() {
-      const { dispatch, body } = this.props;
+      const { onClick, body } = this.props;
       return (
         <div className="Comment">
           <h2>{body}</h2>
-          <button onClick={event => {
-            console.log('Boyeeeee');
-            dispatch(actions.changeBody("Sup"));
-          }} >next</button>
+            <button onClick={ onClick } >next</button>
         </div>
       );
     }
